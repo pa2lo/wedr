@@ -1,0 +1,31 @@
+{
+    "name": "Wedr",
+    "short_name": "Wedr",
+    "icons": [
+        {
+            "src": "/icons/maskable_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+			"purpose": "maskable any"
+        },
+		{
+            "src": "/icons/maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+			"purpose": "maskable any"
+        },
+		{
+            "src": "/icons/maskable_icon_x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+			"purpose": "maskable any"
+        }
+    ],
+	"scope": "/",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "display": "standalone",
+	"start_url": "/",
+	"orientation": "portrait",
+	"description": "Simple weather app"
+}
